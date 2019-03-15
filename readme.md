@@ -20,4 +20,4 @@ based on exercise of the book `Operating System Concepts with Java`
 javac Jsh2.java && java Jsh2
 ```
 
-and if u wana run it in windows, u can run it in git-bash like me.
+and if u wana run it in windows, u can run it by git bash/power shell.
