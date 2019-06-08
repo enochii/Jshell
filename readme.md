@@ -1,6 +1,6 @@
 # simple java shell
 
-based on exercise of the book `Operating System Concepts with Java`
+Based on java shell exercise of the book `Operating System Concepts with Java`
 
 ## it supports
 
@@ -20,4 +20,4 @@ based on exercise of the book `Operating System Concepts with Java`
 javac Jsh2.java && java Jsh2
 ```
 
-and if u wana run it in windows, u can run it by git bash/power shell.
+In windows, u can run it by git bash/power shell.
